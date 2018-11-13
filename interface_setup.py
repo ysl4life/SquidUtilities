@@ -20,4 +20,4 @@ for line in file_read:
     file_write.write("\n")
     count += 1
 file_read.close()
-file_write.close()
+file_write.close() 
