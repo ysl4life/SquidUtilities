@@ -10,4 +10,4 @@ How to use:
 Potential Errors:
 - If your directory is on non-main harddrive, makefile.bat will not work. 
   
-  Solution: Open makefile.bat with a text editor and add "d:"(no spaces, d represents another harddrive, could be e/c/etc. for you) on the second line after cd %CD%
+  Solution: Open makefile.bat with a text editor and add "d:"(no spaces, d represents another harddrive, could be e/c/etc. for you) on the second line after "cd %CD%"
