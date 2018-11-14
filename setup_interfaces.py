@@ -5,7 +5,7 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 
 ip_file = "ip_addresses.txt" #put your ip addresses in this file
-output = "output.txt" #completed commands are in this file
+output = "output_interfaces.txt" #completed commands are in this file
 file_read = open(ip_file,"r")
 file_write = open(output,"w")
 count = 1
